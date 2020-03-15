@@ -1,0 +1,31 @@
+body{
+    background-color: #FAFAFA;
+}
+
+.container{
+    background-color: white;
+    margin: -20px 50px -20px 50px;
+    border: outset;
+    padding: 20px;
+}
+ 
+header{
+    margin-top: 70px;
+}
+
+.img_padrao{
+    margin-bottom: 20px;
+    width: 250px;
+}
+
+.icone{
+    margin-bottom: -10px;
+    padding: -20px;
+
+}
+
+footer{
+    margin-top: 30px;
+    margin-bottom: 10px;
+   text-align: center;
+}
